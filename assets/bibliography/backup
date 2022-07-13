@@ -1,0 +1,1300 @@
+@inproceedings{langley00,
+ author    = {P. Langley},
+ title     = {Crafting Papers on Machine Learning},
+ year      = {2000},
+ pages     = {1207--1216},
+ editor    = {Pat Langley},
+ booktitle     = {Proceedings of the 17th International Conference
+              on Machine Learning (ICML 2000)},
+ address   = {Stanford, CA},
+ publisher = {Morgan Kaufmann}
+}
+
+@TechReport{mitchell80,
+  author = 	 "T. M. Mitchell",
+  title = 	 "The Need for Biases in Learning Generalizations",
+  institution =  "Computer Science Department, Rutgers University",
+  year = 	 "1980",
+  address =	 "New Brunswick, MA",
+}
+
+@phdthesis{kearns89,
+  author = {M. J. Kearns},
+  title =  {Computational Complexity of Machine Learning},
+  school = {Department of Computer Science, Harvard University},
+  year =   {1989}
+}
+
+@Book{MachineLearningI,
+  editor = 	 "R. S. Michalski and J. G. Carbonell and T.
+		  M. Mitchell",
+  title = 	 "Machine Learning: An Artificial Intelligence
+		  Approach, Vol. I",
+  publisher = 	 "Tioga",
+  year = 	 "1983",
+  address =	 "Palo Alto, CA"
+}
+
+@Book{DudaHart2nd,
+  author =       "R. O. Duda and P. E. Hart and D. G. Stork",
+  title =        "Pattern Classification",
+  publisher =    "John Wiley and Sons",
+  edition =      "2nd",
+  year =         "2000"
+}
+
+@misc{anonymous,
+  title= {Suppressed for Anonymity},
+  author= {Author, N. N.},
+  year= {2021}
+}
+
+@InCollection{Newell81,
+  author =       "A. Newell and P. S. Rosenbloom",
+  title =        "Mechanisms of Skill Acquisition and the Law of
+                  Practice", 
+  booktitle =    "Cognitive Skills and Their Acquisition",
+  pages =        "1--51",
+  publisher =    "Lawrence Erlbaum Associates, Inc.",
+  year =         "1981",
+  editor =       "J. R. Anderson",
+  chapter =      "1",
+  address =      "Hillsdale, NJ"
+}
+
+
+@Article{Samuel59,
+  author = 	 "A. L. Samuel",
+  title = 	 "Some Studies in Machine Learning Using the Game of
+		  Checkers",
+  journal =	 "IBM Journal of Research and Development",
+  year =	 "1959",
+  volume =	 "3",
+  number =	 "3",
+  pages =	 "211--229"
+}
+
+@inproceedings{peng2021rfa,
+title={Random Feature Attention},
+author={Hao Peng and Nikolaos Pappas and Dani Yogatama and Roy Schwartz and Noah Smith and Lingpeng Kong},
+booktitle={International Conference on Learning Representations},
+year={2021},
+}
+@inproceedings{veach1995optimally,
+  title={Optimally combining sampling techniques for Monte Carlo rendering},
+  author={Veach, Eric and Guibas, Leonidas J},
+  booktitle={Proceedings of the 22nd annual conference on Computer graphics and interactive techniques},
+  pages={419--428},
+  year={1995}
+}
+@article{tay2020efficient,
+  title={Efficient transformers: A survey},
+  author={Tay, Yi and Dehghani, Mostafa and Bahri, Dara and Metzler, Donald},
+  journal={arXiv preprint arXiv:2009.06732},
+  year={2020}
+}
+@inproceedings{
+tay2021long,
+title={Long Range Arena : A Benchmark for Efficient Transformers },
+author={Yi Tay and Mostafa Dehghani and Samira Abnar and Yikang Shen and Dara Bahri and Philip Pham and Jinfeng Rao and Liu Yang and Sebastian Ruder and Donald Metzler},
+booktitle={International Conference on Learning Representations},
+year={2021},
+url={https://openreview.net/forum?id=qVyeW-grC2k}
+}
+@inproceedings{gupta-berant-2021-value,
+    title = "Value-aware Approximate Attention",
+    author = "Gupta, Ankit  and
+      Berant, Jonathan",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.753",
+    pages = "9567--9574",
+}
+
+@inproceedings{random-features,
+ author = {Rahimi, Ali and Recht, Benjamin},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {J. Platt and D. Koller and Y. Singer and S. Roweis},
+ pages = {},
+ publisher = {Curran Associates, Inc.},
+ title = {Random Features for Large-Scale Kernel Machines},
+ url = {https://proceedings.neurips.cc/paper/2007/file/013a006f03dbc5392effeb8f18fda755-Paper.pdf},
+ volume = {20},
+ year = {2008}
+}
+
+@InProceedings{mixture-reparam,
+  title = 	 { Automatic Differentiation Variational Inference with Mixtures },
+  author =       {Morningstar, Warren and Vikram, Sharad and Ham, Cusuh and Gallagher, Andrew and Dillon, Joshua},
+  booktitle = 	 {Proceedings of The 24th International Conference on Artificial Intelligence and Statistics},
+  pages = 	 {3250--3258},
+  year = 	 {2021},
+  editor = 	 {Banerjee, Arindam and Fukumizu, Kenji},
+  volume = 	 {130},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {13--15 Apr},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v130/morningstar21b/morningstar21b.pdf},
+  url = 	 {https://proceedings.mlr.press/v130/morningstar21b.html},
+}
+@article{owen2000safe,
+  title={Safe and effective importance sampling},
+  author={Owen, Art and Zhou, Yi},
+  journal={Journal of the American Statistical Association},
+  volume={95},
+  number={449},
+  pages={135--143},
+  year={2000},
+  publisher={Taylor \& Francis}
+}
+@inproceedings{stickingtheland2017nips,
+ author = {Roeder, Geoffrey and Wu, Yuhuai and Duvenaud, David K},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {I. Guyon and U. V. Luxburg and S. Bengio and H. Wallach and R. Fergus and S. Vishwanathan and R. Garnett},
+ pages = {},
+ publisher = {Curran Associates, Inc.},
+ title = {Sticking the Landing: Simple, Lower-Variance Gradient Estimators for Variational Inference},
+ url = {https://proceedings.neurips.cc/paper/2017/file/e91068fff3d7fa1594dfdf3b4308433a-Paper.pdf},
+ volume = {30},
+ year = {2017}
+}
+
+
+@book{mcbook,
+   author = {Art B. Owen},
+   year = 2013,
+   title = {Monte Carlo theory, methods and examples}
+}
+@article{lin2021survey,
+  title={A Survey of Transformers},
+  author={Lin, Tianyang and Wang, Yuxin and Liu, Xiangyang and Qiu, Xipeng},
+  journal={arXiv preprint arXiv:2106.04554},
+  year={2021}
+}
+@article{snelson2006sparse,
+  title={Sparse Gaussian processes using pseudo-inputs},
+  author={Snelson, Edward and Ghahramani, Zoubin},
+  journal={Advances in neural information processing systems},
+  volume={18},
+  pages={1257},
+  year={2006},
+  publisher={Citeseer}
+}
+@article{ma2021luna,
+  title={Luna: Linear Unified Nested Attention},
+  author={Ma, Xuezhe and Kong, Xiang and Wang, Sinong and Zhou, Chunting and May, Jonathan and Ma, Hao and Zettlemoyer, Luke},
+  journal={arXiv preprint arXiv:2106.01540},
+  year={2021}
+}
+@inproceedings{lee2019set,
+  title={Set transformer: A framework for attention-based permutation-invariant neural networks},
+  author={Lee, Juho and Lee, Yoonho and Kim, Jungtaek and Kosiorek, Adam and Choi, Seungjin and Teh, Yee Whye},
+  booktitle={International Conference on Machine Learning},
+  pages={3744--3753},
+  year={2019},
+  organization={PMLR}
+}
+@article{tay2019compositional,
+  title={Compositional de-attention networks},
+  author={Tay, Yi and Luu, Anh Tuan and Zhang, Aston and Wang, Shuohang and Hui, Siu Cheung},
+  journal={Advances in Neural Information Processing Systems},
+  volume={32},
+  year={2019}
+}
+@inproceedings{
+choromanski2021rethinking,
+title={Rethinking Attention with Performers},
+author={Krzysztof Marcin Choromanski and Valerii Likhosherstov and David Dohan and Xingyou Song and Andreea Gane and Tamas Sarlos and Peter Hawkins and Jared Quincy Davis and Afroz Mohiuddin and Lukasz Kaiser and David Benjamin Belanger and Lucy J Colwell and Adrian Weller},
+booktitle={International Conference on Learning Representations},
+year={2021},
+url={https://openreview.net/forum?id=Ua6zuk0WRH}
+}
+@inproceedings{andrew2007scalable,
+  title={Scalable training of {L1}-regularized log-linear models},
+  author={Andrew, Galen and Gao, Jianfeng},
+  booktitle={Proceedings of the 24th International Conference on Machine Learning},
+  pages={33--40},
+  year={2007},
+}
+@inproceedings{yang2019xlnet,
+ author = {Yang, Zhilin and Dai, Zihang and Yang, Yiming and Carbonell, Jaime and Salakhutdinov, Russ R and Le, Quoc V},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {H. Wallach and H. Larochelle and A. Beygelzimer and F. d\textquotesingle Alch\'{e}-Buc and E. Fox and R. Garnett},
+ pages = {5753--5763},
+ publisher = {Curran Associates, Inc.},
+ title = {XLNet: Generalized Autoregressive Pretraining for Language Understanding},
+ url = {https://proceedings.neurips.cc/paper/2019/file/dc6a7e655d7e5840e66733e9ee67cc69-Paper.pdf},
+ volume = {32},
+ year = {2019}
+}
+
+@InProceedings{Yu2019vqa,
+author = {Yu, Zhou and Yu, Jun and Cui, Yuhao and Tao, Dacheng and Tian, Qi},
+title = {Deep Modular Co-Attention Networks for Visual Question Answering},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2019}
+}
+
+@article{fan2020bayesian,
+  title={Bayesian Attention Modules},
+  author={Fan, Xinjie and Zhang, Shujian and Chen, Bo and Zhou, Mingyuan},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  year={2020}
+}
+@article {Rivese2016239118,
+	author = {Rives, Alexander and Meier, Joshua and Sercu, Tom and Goyal, Siddharth and Lin, Zeming and Liu, Jason and Guo, Demi and Ott, Myle and Zitnick, C. Lawrence and Ma, Jerry and Fergus, Rob},
+	title = {Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences},
+	volume = {118},
+	number = {15},
+	elocation-id = {e2016239118},
+	year = {2021},
+	doi = {10.1073/pnas.2016239118},
+	publisher = {National Academy of Sciences},
+	issn = {0027-8424},
+	URL = {https://www.pnas.org/content/118/15/e2016239118},
+	eprint = {https://www.pnas.org/content/118/15/e2016239118.full.pdf},
+	journal = {Proceedings of the National Academy of Sciences}
+}
+@article{jaegle2021perceiverio,
+  title={Perceiver io: A general architecture for structured inputs \& outputs},
+  author={Jaegle, Andrew and Borgeaud, Sebastian and Alayrac, Jean-Baptiste and Doersch, Carl and Ionescu, Catalin and Ding, David and Koppula, Skanda and Zoran, Daniel and Brock, Andrew and Shelhamer, Evan and others},
+  journal={arXiv preprint arXiv:2107.14795},
+  year={2021}
+}
+@inproceedings{
+kasai2021deepNMT,
+title={Deep Encoder, Shallow Decoder: Reevaluating Non-autoregressive Machine Translation},
+author={Jungo Kasai and Nikolaos Pappas and Hao Peng and James Cross and Noah Smith},
+booktitle={International Conference on Learning Representations},
+year={2021},
+url={https://openreview.net/forum?id=KpfasTaLUpq}
+}
+@article{pit,
+  title={Rethinking spatial dimensions of vision transformers},
+  author={Heo, Byeongho and Yun, Sangdoo and Han, Dongyoon and Chun, Sanghyuk and Choe, Junsuk and Oh, Seong Joon},
+  journal={arXiv preprint arXiv:2103.16302},
+  year={2021}
+}
+@article{cswin,
+  title={Cswin transformer: A general vision transformer backbone with cross-shaped windows},
+  author={Dong, Xiaoyi and Bao, Jianmin and Chen, Dongdong and Zhang, Weiming and Yu, Nenghai and Yuan, Lu and Chen, Dong and Guo, Baining},
+  journal={arXiv preprint arXiv:2107.00652},
+  year={2021}
+}
+@inproceedings{resnext,
+  title={Aggregated residual transformations for deep neural networks},
+  author={Xie, Saining and Girshick, Ross and Doll{\'a}r, Piotr and Tu, Zhuowen and He, Kaiming},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={1492--1500},
+  year={2017}
+}
+@inproceedings{resnet,
+  title={Deep residual learning for image recognition},
+  author={He, Kaiming and Zhang, Xiangyu and Ren, Shaoqing and Sun, Jian},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={770--778},
+  year={2016}
+}
+@article{cont,
+  title={ConTNet: Why not use convolution and transformer at the same time?},
+  author={Yan, Haotian and Li, Zhe and Li, Weijian and Wang, Changhu and Wu, Ming and Zhang, Chuang},
+  journal={arXiv preprint arXiv:2104.13497},
+  year={2021}
+}
+@article{ceit,
+  title={Incorporating Convolution Designs into Visual Transformers},
+  author={Yuan, Kun and Guo, Shaopeng and Liu, Ziwei and Zhou, Aojun and Yu, Fengwei and Wu, Wei},
+  journal={arXiv preprint arXiv:2103.11816},
+  year={2021}
+}
+@article{cvt,
+  title={Cvt: Introducing convolutions to vision transformers},
+  author={Wu, Haiping and Xiao, Bin and Codella, Noel and Liu, Mengchen and Dai, Xiyang and Yuan, Lu and Zhang, Lei},
+  journal={arXiv preprint arXiv:2103.15808},
+  year={2021}
+}
+@article{localvit,
+  title={LocalViT: Bringing Locality to Vision Transformers},
+  author={Li, Yawei and Zhang, Kai and Cao, Jiezhang and Timofte, Radu and Van Gool, Luc},
+  journal={arXiv preprint arXiv:2104.05707},
+  year={2021}
+}
+@inproceedings{sennrich-etal-2016-bpe,
+    title = "Neural Machine Translation of Rare Words with Subword Units",
+    author = "Sennrich, Rico  and
+      Haddow, Barry  and
+      Birch, Alexandra",
+    booktitle = "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2016",
+    address = "Berlin, Germany",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/P16-1162",
+    doi = "10.18653/v1/P16-1162",
+    pages = "1715--1725",
+}
+
+@article{ott2018scalingNMT,
+  title={Scaling neural machine translation},
+  author={Ott, Myle and Edunov, Sergey and Grangier, David and Auli, Michael},
+  journal={arXiv preprint arXiv:1806.00187},
+  year={2018}
+}
+@inproceedings{bojar2014wmt,
+  title={Findings of the 2014 workshop on statistical machine translation},
+  author={Bojar, Ond{\v{r}}ej and Buck, Christian and Federmann, Christian and Haddow, Barry and Koehn, Philipp and Leveling, Johannes and Monz, Christof and Pecina, Pavel and Post, Matt and Saint-Amand, Herve and others},
+  booktitle={Proceedings of the ninth workshop on statistical machine translation},
+  pages={12--58},
+  year={2014}
+}
+@inproceedings{ainslie2020etc,
+  title={ETC: Encoding Long and Structured Inputs in Transformers},
+  author={Ainslie, Joshua and Ontanon, Santiago and Alberti, Chris and Cvicek, Vaclav and Fisher, Zachary and Pham, Philip and Ravula, Anirudh and Sanghai, Sumit and Wang, Qifan and Yang, Li},
+  booktitle={Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  pages={268--284},
+  year={2020}
+}
+@article{nangia2018listops,
+  title={Listops: A diagnostic dataset for latent tree learning},
+  author={Nangia, Nikita and Bowman, Samuel R},
+  journal={arXiv preprint arXiv:1804.06028},
+  year={2018}
+}
+@inproceedings{maas2011imdb,
+  title={Learning word vectors for sentiment analysis},
+  author={Maas, Andrew and Daly, Raymond E and Pham, Peter T and Huang, Dan and Ng, Andrew Y and Potts, Christopher},
+  booktitle={Proceedings of the 49th annual meeting of the association for computational linguistics: Human language technologies},
+  pages={142--150},
+  year={2011}
+}
+@article{radev2013aan,
+  title={The ACL anthology network corpus},
+  author={Radev, Dragomir R and Muthukrishnan, Pradeep and Qazvinian, Vahed and Abu-Jbara, Amjad},
+  journal={Language Resources and Evaluation},
+  volume={47},
+  number={4},
+  pages={919--944},
+  year={2013},
+  publisher={Springer}
+}
+@article{krizhevsky2009cifar,
+  title={Learning multiple layers of features from tiny images},
+  author={Krizhevsky, Alex and Hinton, Geoffrey and others},
+  year={2009},
+  publisher={Citeseer}
+}
+@inproceedings{linsley2018pathfinder,
+  title={Learning long-range spatial dependencies with horizontal gated recurrent units},
+  author={Linsley, Drew and Kim, Junkyung and Veerabadran, Vijay and Windolf, Charlie and Serre, Thomas},
+  booktitle={Proceedings of the 32nd International Conference on Neural Information Processing Systems},
+  pages={152--164},
+  year={2018}
+}
+@article{child2019generating,
+  title={Generating long sequences with sparse transformers},
+  author={Child, Rewon and Gray, Scott and Radford, Alec and Sutskever, Ilya},
+  journal={arXiv preprint arXiv:1904.10509},
+  year={2019}
+}
+@inproceedings{parmar2018image,
+  title={Image transformer},
+  author={Parmar, Niki and Vaswani, Ashish and Uszkoreit, Jakob and Kaiser, Lukasz and Shazeer, Noam and Ku, Alexander and Tran, Dustin},
+  booktitle={International Conference on Machine Learning},
+  pages={4055--4064},
+  year={2018},
+  organization={PMLR}
+}
+@inproceedings{
+liu2018generating,
+title={Generating Wikipedia by Summarizing Long Sequences},
+author={Peter J. Liu* and Mohammad Saleh* and Etienne Pot and Ben Goodrich and Ryan Sepassi and Lukasz Kaiser and Noam Shazeer},
+booktitle={International Conference on Learning Representations},
+year={2018},
+url={https://openreview.net/forum?id=Hyg0vbWC-},
+}
+@inproceedings{zaheer2020bigbird,
+ author = {Zaheer, Manzil and Guruganesh, Guru and Dubey, Kumar Avinava and Ainslie, Joshua and Alberti, Chris and Ontanon, Santiago and Pham, Philip and Ravula, Anirudh and Wang, Qifan and Yang, Li and Ahmed, Amr},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {H. Larochelle and M. Ranzato and R. Hadsell and M. F. Balcan and H. Lin},
+ pages = {17283--17297},
+ publisher = {Curran Associates, Inc.},
+ title = {Big Bird: Transformers for Longer Sequences},
+ url = {https://proceedings.neurips.cc/paper/2020/file/c8512d142a2d849725f31a9a7a361ab9-Paper.pdf},
+ volume = {33},
+ year = {2020}
+}
+
+@inproceedings{tay2021synthesizer,
+  title={Synthesizer: Rethinking self-attention for transformer models},
+  author={Tay, Yi and Bahri, Dara and Metzler, Donald and Juan, Da-Cheng and Zhao, Zhe and Zheng, Che},
+  booktitle={International Conference on Machine Learning},
+  pages={10183--10192},
+  year={2021},
+  organization={PMLR}
+}
+@article{irie2021going,
+  title={Going Beyond Linear Transformers with Recurrent Fast Weight Programmers},
+  author={Irie, Kazuki and Schlag, Imanol and Csord{\'a}s, R{\'o}bert and Schmidhuber, J{\"u}rgen},
+  journal={arXiv preprint arXiv:2106.06295},
+  year={2021}
+}
+@inproceedings{schlag2021linear,
+  title={Linear transformers are secretly fast weight programmers},
+  author={Schlag, Imanol and Irie, Kazuki and Schmidhuber, J{\"u}rgen},
+  booktitle={International Conference on Machine Learning},
+  pages={9355--9366},
+  year={2021},
+  organization={PMLR}
+}
+@article{kasai2021t2r,
+  title={Finetuning Pretrained Transformers into RNNs},
+  author={Kasai, Jungo and Peng, Hao and Zhang, Yizhe and Yogatama, Dani and Ilharco, Gabriel and Pappas, Nikolaos and Mao, Yi and Chen, Weizhu and Smith, Noah A},
+  journal={arXiv preprint arXiv:2103.13076},
+  year={2021}
+}
+@inproceedings{zeng2021yolo,
+  title={You only sample (almost) once: Linear cost self-attention via bernoulli sampling},
+  author={Zeng, Zhanpeng and Xiong, Yunyang and Ravi, Sathya and Acharya, Shailesh and Fung, Glenn M and Singh, Vikas},
+  booktitle={International Conference on Machine Learning},
+  pages={12321--12332},
+  year={2021},
+  organization={PMLR}
+}
+@inproceedings{katharopoulos2020transformers_are_rnns,
+  title={Transformers are rnns: Fast autoregressive transformers with linear attention},
+  author={Katharopoulos, Angelos and Vyas, Apoorv and Pappas, Nikolaos and Fleuret, Fran{\c{c}}ois},
+  booktitle={International Conference on Machine Learning},
+  pages={5156--5165},
+  year={2020},
+  organization={PMLR}
+}
+@article{lee2021fnet,
+  title={FNet: Mixing Tokens with Fourier Transforms},
+  author={Lee-Thorp, James and Ainslie, Joshua and Eckstein, Ilya and Ontanon, Santiago},
+  journal={arXiv preprint arXiv:2105.03824},
+  year={2021}
+}
+@article{peng2021abc,
+  title={ABC: Attention with Bounded-memory Control},
+  author={Peng, Hao and Kasai, Jungo and Pappas, Nikolaos and Yogatama, Dani and Wu, Zhaofeng and Kong, Lingpeng and Schwartz, Roy and Smith, Noah A},
+  journal={arXiv preprint arXiv:2110.02488},
+  year={2021}
+}
+@article{2019gmis,
+   title={Generalized Multiple Importance Sampling},
+   volume={34},
+   ISSN={0883-4237},
+   url={http://dx.doi.org/10.1214/18-STS668},
+   DOI={10.1214/18-sts668},
+   number={1},
+   journal={Statistical Science},
+   publisher={Institute of Mathematical Statistics},
+   author={Elvira, Víctor and Martino, Luca and Luengo, David and Bugallo, Mónica F.},
+   year={2019},
+   month={Feb}
+}
+
+@article{optimal_mis,
+author = {Kondapaneni, Ivo and Vevoda, Petr and Grittmann, Pascal and Sk\v{r}ivan, Tom\'{a}\v{s} and Slusallek, Philipp and K\v{r}iv\'{a}nek, Jaroslav},
+title = {Optimal Multiple Importance Sampling},
+year = {2019},
+issue_date = {July 2019},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {38},
+number = {4},
+issn = {0730-0301},
+url = {https://doi.org/10.1145/3306346.3323009},
+doi = {10.1145/3306346.3323009},
+journal = {ACM Trans. Graph.},
+month = {jul},
+articleno = {37},
+numpages = {14},
+keywords = {multiple importance sampling, combined estimators, monte carlo integration}
+}
+@inproceedings{zhou2021informer,
+  title={Informer: Beyond efficient transformer for long sequence time-series forecasting},
+  author={Zhou, Haoyi and Zhang, Shanghang and Peng, Jieqi and Zhang, Shuai and Li, Jianxin and Xiong, Hui and Zhang, Wancai},
+  booktitle={Proceedings of AAAI},
+  year={2021}
+}
+@article{srivastava14dropout,
+  author  = {Nitish Srivastava and Geoffrey Hinton and Alex Krizhevsky and Ilya Sutskever and Ruslan Salakhutdinov},
+  title   = {Dropout: A Simple Way to Prevent Neural Networks from Overfitting},
+  journal = {Journal of Machine Learning Research},
+  year    = {2014},
+  volume  = {15},
+  number  = {56},
+  pages   = {1929-1958},
+  url     = {http://jmlr.org/papers/v15/srivastava14a.html}
+}
+@article{pvt,
+  title={Pyramid vision transformer: A versatile backbone for dense prediction without convolutions},
+  author={Wang, Wenhai and Xie, Enze and Li, Xiang and Fan, Deng-Ping and Song, Kaitao and Liang, Ding and Lu, Tong and Luo, Ping and Shao, Ling},
+  journal={arXiv preprint arXiv:2102.12122},
+  year={2021}
+}
+@article{pvtv2,
+  title={Pvtv2: Improved baselines with pyramid vision transformer},
+  author={Wang, Wenhai and Xie, Enze and Li, Xiang and Fan, Deng-Ping and Song, Kaitao and Liang, Ding and Lu, Tong and Luo, Ping and Shao, Ling},
+  journal={arXiv preprint arXiv:2106.13797},
+  year={2021}
+}
+@article{zhu2021long-short,
+  title={Long-short transformer: Efficient transformers for language and vision},
+  author={Zhu, Chen and Ping, Wei and Xiao, Chaowei and Shoeybi, Mohammad and Goldstein, Tom and Anandkumar, Anima and Catanzaro, Bryan},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  year={2021}
+}
+@misc{fan2020pyslowfast,
+  author =       {Haoqi Fan and Yanghao Li and Bo Xiong and Wan-Yen Lo and
+                  Christoph Feichtenhofer},
+  title =        {PySlowFast},
+  howpublished = {\url{https://github.com/facebookresearch/slowfast}},
+  year =         {2020}
+}
+@inproceedings{
+patrick2021motionformer,
+title={Keeping Your Eye on the Ball: Trajectory Attention in Video Transformers},
+author={Mandela Patrick and Dylan Campbell and Yuki Asano and Ishan Misra and Florian Metze and Christoph Feichtenhofer and Andrea Vedaldi and Joao F. Henriques},
+booktitle={Advances in Neural Information Processing Systems},
+editor={A. Beygelzimer and Y. Dauphin and P. Liang and J. Wortman Vaughan},
+year={2021},
+url={https://openreview.net/forum?id=mfQxdSMWOF}
+}
+@article{dai2020funnel,
+  title={Funnel-transformer: Filtering out sequential redundancy for efficient language processing},
+  author={Dai, Zihang and Lai, Guokun and Yang, Yiming and Le, Quoc},
+  journal={Advances in neural information processing systems},
+  volume={33},
+  pages={4271--4282},
+  year={2020}
+}
+@inproceedings{goyal2020power,
+  title={PoWER-BERT: Accelerating BERT inference via progressive word-vector elimination},
+  author={Goyal, Saurabh and Choudhury, Anamitra Roy and Raje, Saurabh and Chakaravarthy, Venkatesan and Sabharwal, Yogish and Verma, Ashish},
+  booktitle={International Conference on Machine Learning},
+  pages={3690--3699},
+  year={2020},
+  organization={PMLR}
+}
+@article{pietruszka2020sparsifying,
+  title={Sparsifying Transformer Models with Trainable Representation Pooling},
+  author={Pietruszka, Micha{\l} and Borchmann, {\L}ukasz and Garncarek, {\L}ukasz},
+  journal={arXiv preprint arXiv:2009.05169},
+  year={2020}
+}
+@inproceedings{xiong2021nystromformer,
+  title={Nystr{\"o}mformer: A Nystr{\"o}m-based Algorithm for Approximating Self-Attention},
+  author={Xiong, Yunyang and Zeng, Zhanpeng and Chakraborty, Rudrasis and Tan, Mingxing and Fung, Glenn and Li, Yin and Singh, Vikas},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  pages={14138--14148},
+  year={2021}
+}
+@article{ren2021combiner,
+  title={Combiner: Full attention transformer with sparse computation cost},
+  author={Ren, Hongyu and Dai, Hanjun and Dai, Zihang and Yang, Mengjiao and Leskovec, Jure and Schuurmans, Dale and Dai, Bo},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  year={2021}
+}
+@article{wang2020linformer,
+  title={Linformer: Self-attention with linear complexity},
+  author={Wang, Sinong and Li, Belinda Z and Khabsa, Madian and Fang, Han and Ma, Hao},
+  journal={arXiv preprint arXiv:2006.04768},
+  year={2020}
+}
+@article{beltagy2020longformer,
+  title={Longformer: The long-document transformer},
+  author={Beltagy, Iz and Peters, Matthew E and Cohan, Arman},
+  journal={arXiv preprint arXiv:2004.05150},
+  year={2020}
+}
+@inproceedings{chen2021skyformer,
+  title={Skyformer: Remodel Self-Attention with Gaussian Kernel and Nystr$\backslash$" om Method},
+  author={Chen, Yifan and Zeng, Qi and Ji, Heng and Yang, Yun},
+  booktitle={Thirty-Fifth Conference on Neural Information Processing Systems},
+  year={2021}
+}
+@inproceedings{lu2021soft,
+  title={SOFT: Softmax-free Transformer with Linear Complexity},
+  author={Lu, Jiachen and Yao, Jinghan and Zhang, Junge and Zhu, Xiatian and Xu, Hang and Gao, Weiguo and Xu, Chunjing and Xiang, Tao and Zhang, Li},
+  booktitle={Thirty-Fifth Conference on Neural Information Processing Systems},
+  year={2021}
+}
+@article{nguyen2021fmmformer,
+  title={Fmmformer: Efficient and flexible transformer via decomposed near-field and far-field attention},
+  author={Nguyen, Tan and Suliafu, Vai and Osher, Stanley and Chen, Long and Wang, Bao},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  year={2021}
+}
+@inproceedings{chen2021scatterbrain,
+  title={Scatterbrain: Unifying sparse and low-rank attention},
+  author={Chen, Beidi and Dao, Tri and Winsor, Eric and Song, Zhao and Rudra, Atri and R{\'e}, Christopher},
+  booktitle={Thirty-Fifth Conference on Neural Information Processing Systems},
+  year={2021}
+}
+@InProceedings{jaegle2021perceiver,
+  title = 	 {Perceiver: General Perception with Iterative Attention},
+  author =       {Jaegle, Andrew and Gimeno, Felix and Brock, Andy and Vinyals, Oriol and Zisserman, Andrew and Carreira, Joao},
+  booktitle = 	 {Proceedings of the 38th International Conference on Machine Learning},
+  pages = 	 {4651--4664},
+  year = 	 {2021},
+  editor = 	 {Meila, Marina and Zhang, Tong},
+  volume = 	 {139},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {18--24 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v139/jaegle21a/jaegle21a.pdf},
+  url = 	 {https://proceedings.mlr.press/v139/jaegle21a.html}
+}
+
+@article{vyas2020fast,
+  title={Fast transformers with clustered attention},
+  author={Vyas, Apoorv and Katharopoulos, Angelos and Fleuret, Fran{\c{c}}ois},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  year={2020}
+}
+@article{roy2021routing,
+    title = "Efficient Content-Based Sparse Attention with Routing Transformers",
+    author = "Roy, Aurko  and
+      Saffar, Mohammad  and
+      Vaswani, Ashish  and
+      Grangier, David",
+    journal = "Transactions of the Association for Computational Linguistics",
+    volume = "9",
+    year = "2021",
+    url = "https://aclanthology.org/2021.tacl-1.4",
+    doi = "10.1162/tacl_a_00353",
+    pages = "53--68"
+}
+@article{daras2020smyrf,
+  title={SMYRF-Efficient Attention using Asymmetric Clustering},
+  author={Daras, Giannis and Kitaev, Nikita and Odena, Augustus and Dimakis, Alexandros G},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
+  year={2020}
+}
+@InProceedings{yi2020sinkhorn,
+  title = 	 {Sparse {S}inkhorn Attention},
+  author =       {Tay, Yi and Bahri, Dara and Yang, Liu and Metzler, Donald and Juan, Da-Cheng},
+  booktitle = 	 {Proceedings of the 37th International Conference on Machine Learning},
+  pages = 	 {9438--9447},
+  year = 	 {2020},
+  editor = 	 {III, Hal Daumé and Singh, Aarti},
+  volume = 	 {119},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {13--18 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v119/tay20a/tay20a.pdf},
+  url = 	 {https://proceedings.mlr.press/v119/tay20a.html}
+}
+
+@inproceedings{
+Kitaev2020reformer,
+title={Reformer: The Efficient Transformer},
+author={Nikita Kitaev and Lukasz Kaiser and Anselm Levskaya},
+booktitle={International Conference on Learning Representations},
+year={2020},
+url={https://openreview.net/forum?id=rkgNKkHtvB}
+}
+@inproceedings{carion2020detr,
+  title={End-to-end object detection with transformers},
+  author={Carion, Nicolas and Massa, Francisco and Synnaeve, Gabriel and Usunier, Nicolas and Kirillov, Alexander and Zagoruyko, Sergey},
+  booktitle={European Conference on Computer Vision},
+  pages={213--229},
+  year={2020},
+  organization={Springer}
+}
+@article{chen2021decision,
+  title={Decision transformer: Reinforcement learning via sequence modeling},
+  author={Chen, Lili and Lu, Kevin and Rajeswaran, Aravind and Lee, Kimin and Grover, Aditya and Laskin, Michael and Abbeel, Pieter and Srinivas, Aravind and Mordatch, Igor},
+  journal={arXiv preprint arXiv:2106.01345},
+  year={2021}
+}
+@article{jumper2021highly,
+  title={Highly accurate protein structure prediction with AlphaFold},
+  author={Jumper, John and Evans, Richard and Pritzel, Alexander and Green, Tim and Figurnov, Michael and Ronneberger, Olaf and Tunyasuvunakool, Kathryn and Bates, Russ and {\v{Z}}{\'\i}dek, Augustin and Potapenko, Anna and others},
+  journal={Nature},
+  volume={596},
+  number={7873},
+  pages={583--589},
+  year={2021},
+  publisher={Nature Publishing Group}
+}
+@InProceedings{touvron21adeit,
+  title = 	 {Training data-efficient image transformers \& distillation through attention},
+  author={Touvron, Hugo and Cord, Matthieu and Douze, Matthijs and Massa, Francisco and Sablayrolles, Alexandre and J{\'e}gou, Herv{\'e}},
+  booktitle = 	 {Proceedings of the 38th International Conference on Machine Learning},
+  pages = 	 {10347--10357},
+  year = 	 {2021},
+  editor = 	 {Meila, Marina and Zhang, Tong},
+  volume = 	 {139},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {18--24 Jul},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v139/touvron21a/touvron21a.pdf},
+  url = 	 {https://proceedings.mlr.press/v139/touvron21a.html}
+}
+
+@inproceedings{
+dosovitskiy2021vit,
+title={An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale},
+author={Alexey Dosovitskiy and Lucas Beyer and Alexander Kolesnikov and Dirk Weissenborn and Xiaohua Zhai and Thomas Unterthiner and Mostafa Dehghani and Matthias Minderer and Georg Heigold and Sylvain Gelly and Jakob Uszkoreit and Neil Houlsby},
+booktitle={International Conference on Learning Representations},
+year={2021},
+url={https://openreview.net/forum?id=YicbFdNTTy}
+}
+@article{raffel2020t5,
+  author  = {Colin Raffel and Noam Shazeer and Adam Roberts and Katherine Lee and Sharan Narang and Michael Matena and Yanqi Zhou and Wei Li and Peter J. Liu},
+  title   = {Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer},
+  journal = {Journal of Machine Learning Research},
+  year    = {2020},
+  volume  = {21},
+  number  = {140},
+  pages   = {1-67},
+  url     = {http://jmlr.org/papers/v21/20-074.html}
+}
+@inproceedings{devlin-etal-2019-bert,
+    title = "{BERT}: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    author = "Devlin, Jacob  and
+      Chang, Ming-Wei  and
+      Lee, Kenton  and
+      Toutanova, Kristina",
+    booktitle = "Proceedings of the 2019 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, Minnesota",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/N19-1423",
+    doi = "10.18653/v1/N19-1423",
+    pages = "4171--4186",
+}
+@inproceedings{Pearl1989ProbabilisticRI,
+  title={Probabilistic reasoning in intelligent systems - networks of plausible inference},
+  author={J. Pearl},
+  booktitle={Morgan Kaufmann series in representation and reasoning},
+  year={1989}
+}
+@article{Wellman1993ExplainingA,
+  title={Explaining 'Explaining Away'},
+  author={Michael P. Wellman and M. Henrion},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  year={1993},
+  volume={15},
+  pages={287-292}
+}
+@article{abc,
+       author = {{Peng}, Hao and {Kasai}, Jungo and {Pappas}, Nikolaos and {Yogatama}, Dani and {Wu}, Zhaofeng and {Kong}, Lingpeng and {Schwartz}, Roy and {Smith}, Noah A.},
+        title = "{ABC: Attention with Bounded-memory Control}",
+      journal = {arXiv e-prints arXiv:2110.02488},
+         year = 2021,
+}
+@inproceedings{
+yang2018breaking,
+title={Breaking the Softmax Bottleneck: A High-Rank {RNN} Language Model},
+author={Zhilin Yang and Zihang Dai and Ruslan Salakhutdinov and William W. Cohen},
+booktitle={International Conference on Learning Representations},
+year={2018},
+url={https://openreview.net/forum?id=HkwZSG-CZ},
+}
+@article{ripple,
+  title={Ripple Attention for Visual Perception with Sub-quadratic Complexity},
+  author={Lin Zheng and Huijie Pan and Lingpeng Kong},
+  journal={arXiv preprint arXiv:2110.02453},
+  year={2021}
+}
+@article{clark2019does,
+  title={What does bert look at? an analysis of bert's attention},
+  author={Clark, Kevin and Khandelwal, Urvashi and Levy, Omer and Manning, Christopher D},
+  journal={arXiv preprint arXiv:1906.04341},
+  year={2019}
+}
+@InProceedings{vae3, 
+  title = {Doubly Stochastic Variational Bayes for non-Conjugate Inference}, 
+  author = {Michalis Titsias and Miguel Lázaro-Gredilla}, 
+  booktitle = {Proceedings of the 31st International Conference on Machine Learning}, 
+  pages = {1971--1979}, 
+  year = {2014}, 
+  volume = {32}, 
+}
+@InProceedings{vae2, 
+  title = {Stochastic Backpropagation and Approximate Inference in Deep Generative Models}, 
+  author = {Danilo Jimenez Rezende and Shakir Mohamed and Daan Wierstra}, 
+  booktitle = {Proceedings of the 31st International Conference on Machine Learning}, 
+  pages = {1278--1286}, 
+  year = {2014}, 
+  volume = {32}, 
+}
+@article{vae1,
+  title={Auto-encoding variational bayes},
+  author={Kingma, Diederik P and Welling, Max},
+  journal={arXiv preprint arXiv:1312.6114},
+  year={2013},
+  adsurl = {https://ui.adsabs.harvard.edu/abs/2013arXiv1312.6114K},
+}
+@article{blei2017variational,
+  title={Variational inference: A review for statisticians},
+  author={Blei, David M and Kucukelbir, Alp and McAuliffe, Jon D},
+  journal={Journal of the American statistical Association},
+  volume={112},
+  number={518},
+  pages={859--877},
+  year={2017},
+  publisher={Taylor \& Francis}
+}
+@article{em,
+  title={Maximum likelihood from incomplete data via the EM algorithm},
+  author={Dempster, Arthur P and Laird, Nan M and Rubin, Donald B},
+  journal={Journal of the Royal Statistical Society: Series B (Methodological)},
+  volume={39},
+  number={1},
+  pages={1--22},
+  year={1977},
+  publisher={Wiley Online Library}
+}
+@article{liu2020very,
+  title={Very deep transformers for neural machine translation},
+  author={Liu, Xiaodong and Duh, Kevin and Liu, Liyuan and Gao, Jianfeng},
+  journal={arXiv preprint arXiv:2008.07772},
+  year={2020}
+}
+@article{kingma2014adam,
+  title={Adam: A method for stochastic optimization},
+  author={Kingma, Diederik P and Ba, Jimmy},
+  journal={arXiv preprint arXiv:1412.6980},
+  year={2014}
+}
+@inproceedings{snderby2016ladder,
+ author = {S{\o}nderby, Casper Kaae and Raiko, Tapani and Maal{\o}e, Lars and S{\o}nderby, S{\o}ren Kaae and Winther, Ole},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {D. Lee and M. Sugiyama and U. Luxburg and I. Guyon and R. Garnett},
+ pages = {3738--3746},
+ publisher = {Curran Associates, Inc.},
+ title = {Ladder Variational Autoencoders},
+ url = {https://proceedings.neurips.cc/paper/2016/file/6ae07dcb33ec3b7c814df797cbda0f87-Paper.pdf},
+ volume = {29},
+ year = {2016}
+}
+
+@InProceedings{nag2013, 
+title = {On the importance of initialization and momentum in deep learning}, 
+author = {Ilya Sutskever and James Martens and George Dahl and Geoffrey Hinton}, 
+booktitle = {Proceedings of the 30th International Conference on Machine Learning},
+pages = {1139--1147}, 
+year = {2013}, 
+url = {http://proceedings.mlr.press/v28/sutskever13.html}
+}
+@inproceedings{
+dehghani2018universal,
+title={Universal Transformers},
+author={Mostafa Dehghani and Stephan Gouws and Oriol Vinyals and Jakob Uszkoreit and Lukasz Kaiser},
+booktitle={International Conference on Learning Representations},
+year={2019},
+url={https://openreview.net/forum?id=HyzdRiR9Y7},
+}
+@inproceedings{
+baevski2018adaptive,
+title={Adaptive Input Representations for Neural Language Modeling},
+author={Alexei Baevski and Michael Auli},
+booktitle={International Conference on Learning Representations},
+year={2019},
+url={https://openreview.net/forum?id=ByxZX20qFQ},
+}
+@inproceedings{xu2015show,
+  title={Show, attend and tell: Neural image caption generation with visual attention},
+  author={Xu, Kelvin and Ba, Jimmy and Kiros, Ryan and Cho, Kyunghyun and Courville, Aaron and Salakhudinov, Ruslan and Zemel, Rich and Bengio, Yoshua},
+  booktitle={International conference on machine learning},
+  pages={2048--2057},
+  year={2015}
+}
+@article{cohen2008logistic,
+  title={Logistic normal priors for unsupervised probabilistic grammar induction},
+  author={Cohen, Shay and Gimpel, Kevin and Smith, Noah A},
+  journal={Advances in Neural Information Processing Systems},
+  volume={21},
+  pages={321--328},
+  year={2008}
+}
+@article{blei2006correlated,
+  title={Correlated topic models},
+  author={Blei, David and Lafferty, John},
+  journal={Advances in neural information processing systems},
+  volume={18},
+  pages={147},
+  year={2006}
+}
+@inproceedings{ranganath2016hierarchical,
+  title={Hierarchical variational models},
+  author={Ranganath, Rajesh and Tran, Dustin and Blei, David},
+  booktitle={International Conference on Machine Learning},
+  pages={324--333},
+  year={2016}
+}
+@inproceedings{michel-16heads-2019-neurips,
+ author = {Michel, Paul and Levy, Omer and Neubig, Graham},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {H. Wallach and H. Larochelle and A. Beygelzimer and F. d\textquotesingle Alch\'{e}-Buc and E. Fox and R. Garnett},
+ pages = {14014--14024},
+ publisher = {Curran Associates, Inc.},
+ title = {Are Sixteen Heads Really Better than One?},
+ url = {https://proceedings.neurips.cc/paper/2019/file/2c601ad9d2ff9bc8b282670cdd54f69f-Paper.pdf},
+ volume = {32},
+ year = {2019}
+}
+
+@book{Gusfield:97,
+    author  = {Dan Gusfield},
+    title   = {Algorithms on Strings, Trees and Sequences},
+    year    = "1997",
+    publisher = {Cambridge University Press},
+    address = {Cambridge, UK}
+}
+@inproceedings{xie2016diversity,
+  title={Diversity-promoting bayesian learning of latent variable models},
+  author={Xie, Pengtao and Zhu, Jun and Xing, Eric},
+  booktitle={International Conference on Machine Learning},
+  pages={59--68},
+  year={2016}
+}
+@InProceedings{liu2021swin,
+    author    = {Liu, Ze and Lin, Yutong and Cao, Yue and Hu, Han and Wei, Yixuan and Zhang, Zheng and Lin, Stephen and Guo, Baining},
+    title     = {Swin Transformer: Hierarchical Vision Transformer Using Shifted Windows},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {10012-10022}
+}
+@article{rasooli-tetrault-2015,
+    author    = {Mohammad Sadegh Rasooli and Joel R. Tetreault},
+    title     = {Yara Parser: {A} Fast and Accurate Dependency Parser},
+    journal   = {Computing Research Repository},
+    volume    = {arXiv:1503.06733},
+    year      = {2015},
+    url       = {http://arxiv.org/abs/1503.06733},
+    note    = {version 2}
+}
+@article{deng2018latent,
+  title={Latent alignment and variational attention},
+  author={Deng, Yuntian and Kim, Yoon and Chiu, Justin and Guo, Demi and Rush, Alexander},
+  journal={Advances in Neural Information Processing Systems},
+  volume={31},
+  pages={9712--9724},
+  year={2018}
+}
+@article{cordonnier2020multi,
+  title={Multi-Head Attention: Collaborate Instead of Concatenate},
+  author={Cordonnier, Jean-Baptiste and Loukas, Andreas and Jaggi, Martin},
+  journal={arXiv preprint arXiv:2006.16362},
+  year={2020}
+}
+@incollection{pytorch,
+title = {PyTorch: An Imperative Style, High-Performance Deep Learning Library},
+author = {Paszke, Adam and Gross, Sam and Massa, Francisco and Lerer, Adam and Bradbury, James and Chanan, Gregory and Killeen, Trevor and Lin, Zeming and Gimelshein, Natalia and Antiga, Luca and Desmaison, Alban and Kopf, Andreas and Yang, Edward and DeVito, Zachary and Raison, Martin and Tejani, Alykhan and Chilamkurthy, Sasank and Steiner, Benoit and Fang, Lu and Bai, Junjie and Chintala, Soumith},
+booktitle = {Advances in Neural Information Processing Systems 32},
+editor = {H. Wallach and H. Larochelle and A. Beygelzimer and F. d\textquotesingle Alch\'{e}-Buc and E. Fox and R. Garnett},
+pages = {8024--8035},
+year = {2019},
+publisher = {Curran Associates, Inc.},
+url = {http://papers.neurips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library.pdf}
+}
+@inproceedings{mikolov2010ptb,
+  author = {Mikolov, Tomas and Karafiát, Martin and Burget, Lukás and Cernocký, Jan and Khudanpur, Sanjeev},
+  booktitle = {INTERSPEECH},
+  pages = {1045-1048},
+  publisher = {ISCA},
+  title = {Recurrent neural network based language model.},
+  url = {http://dblp.uni-trier.de/db/conf/interspeech/interspeech2010.html#MikolovKBCK10},
+  year = 2010
+}
+
+@inproceedings{bojar2014findings,
+  title={Findings of the 2014 workshop on statistical machine translation},
+  author={Bojar, Ond{\v{r}}ej and Buck, Christian and Federmann, Christian and Haddow, Barry and Koehn, Philipp and Leveling, Johannes and Monz, Christof and Pecina, Pavel and Post, Matt and Saint-Amand, Herve and others},
+  booktitle={Proceedings of the ninth workshop on statistical machine translation},
+  pages={12--58},
+  year={2014}
+}
+@inproceedings{cettolo2014report,
+  title={Report on the 11th iwslt evaluation campaign, iwslt 2014},
+  author={Cettolo, Mauro and Niehues, Jan and St{\"u}ker, Sebastian and Bentivogli, Luisa and Federico, Marcello},
+  booktitle={Proceedings of the International Workshop on Spoken Language Translation, Hanoi, Vietnam},
+  volume={57},
+  year={2014}
+}
+@article{merity2016pointer,
+  title={Pointer sentinel mixture models},
+  author={Merity, Stephen and Xiong, Caiming and Bradbury, James and Socher, Richard},
+  journal={arXiv preprint arXiv:1609.07843},
+  year={2016}
+}
+@inproceedings{regnet,
+  title={Designing network design spaces},
+  author={Radosavovic, Ilija and Kosaraju, Raj Prateek and Girshick, Ross and He, Kaiming and Doll{\'a}r, Piotr},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={10428--10436},
+  year={2020}
+}
+@article{vil,
+  title={Multi-scale vision longformer: A new vision transformer for high-resolution image encoding},
+  author={Zhang, Pengchuan and Dai, Xiyang and Yang, Jianwei and Xiao, Bin and Yuan, Lu and Zhang, Lei and Gao, Jianfeng},
+  journal={arXiv preprint arXiv:2103.15358},
+  year={2021}
+}
+@article{nest,
+  title={Aggregating nested transformers},
+  author={Zhang, Zizhao and Zhang, Han and Zhao, Long and Chen, Ting and Pfister, Tomas},
+  journal={arXiv preprint arXiv:2105.12723},
+  year={2021}
+}
+@article{coat,
+  title={Co-scale conv-attentional image transformers},
+  author={Xu, Weijian and Xu, Yifan and Chang, Tyler and Tu, Zhuowen},
+  journal={arXiv preprint arXiv:2104.06399},
+  year={2021}
+}
+@article{twins,
+  title={Twins: Revisiting the design of spatial attention in vision transformers},
+  author={Chu, Xiangxiang and Tian, Zhi and Wang, Yuqing and Zhang, Bo and Ren, Haibing and Wei, Xiaolin and Xia, Huaxia and Shen, Chunhua},
+  journal={arXiv preprint arXiv:2104.13840},
+  year={2021}
+}
+@article{focal,
+  title={Focal Attention for Long-Range Interactions in Vision Transformers},
+  author={Yang, Jianwei and Li, Chunyuan and Zhang, Pengchuan and Dai, Xiyang and Xiao, Bin and Yuan, Lu and Gao, Jianfeng},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  year={2021}
+}
+@inproceedings{Radford2019LanguageMA,
+  title={Language Models are Unsupervised Multitask Learners},
+  author={A. Radford and Jeffrey Wu and R. Child and David Luan and Dario Amodei and Ilya Sutskever},
+  year={2019}
+}
+@article{tnt,
+  title={Transformer in transformer},
+  author={Han, Kai and Xiao, An and Wu, Enhua and Guo, Jianyuan and Xu, Chunjing and Wang, Yunhe},
+  journal={arXiv preprint arXiv:2103.00112},
+  year={2021}
+}
+@article{t2tvit,
+  title={Tokens-to-token vit: Training vision transformers from scratch on imagenet},
+  author={Yuan, Li and Chen, Yunpeng and Wang, Tao and Yu, Weihao and Shi, Yujun and Jiang, Zihang and Tay, Francis EH and Feng, Jiashi and Yan, Shuicheng},
+  journal={arXiv preprint arXiv:2101.11986},
+  year={2021}
+}
+@article{regionvit,
+  title={RegionViT: Regional-to-Local Attention for Vision Transformers},
+  author={Chen, Chun-Fu and Panda, Rameswar and Fan, Quanfu},
+  journal={arXiv preprint arXiv:2106.02689},
+  year={2021}
+}
+@InProceedings{visformer,
+    author    = {Chen, Zhengsu and Xie, Lingxi and Niu, Jianwei and Liu, Xuefeng and Wei, Longhui and Tian, Qi},
+    title     = {Visformer: The Vision-Friendly Transformer},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {589-598}
+}
+@inproceedings{mha2019neurips,
+ author = {Ramachandran, Prajit and Parmar, Niki and Vaswani, Ashish and Bello, Irwan and Levskaya, Anselm and Shlens, Jon},
+ booktitle = {Advances in Neural Information Processing Systems},
+ editor = {H. Wallach and H. Larochelle and A. Beygelzimer and F. d\textquotesingle Alch\'{e}-Buc and E. Fox and R. Garnett},
+ pages = {68--80},
+ publisher = {Curran Associates, Inc.},
+ title = {Stand-Alone Self-Attention in Vision Models},
+ url = {https://proceedings.neurips.cc/paper/2019/file/3416a75f4cea9109507cacd8e2f2aefc-Paper.pdf},
+ volume = {32},
+ year = {2019}
+}
+
+
+@inproceedings{michel2019sixteen,
+  title={Are sixteen heads really better than one?},
+  author={Michel, Paul and Levy, Omer and Neubig, Graham},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={14014--14024},
+  year={2019}
+}
+@article{kay2017kinetics,
+  title={The kinetics human action video dataset},
+  author={Kay, Will and Carreira, Joao and Simonyan, Karen and Zhang, Brian and Hillier, Chloe and Vijayanarasimhan, Sudheendra and Viola, Fabio and Green, Tim and Back, Trevor and Natsev, Paul and others},
+  journal={arXiv preprint arXiv:1705.06950},
+  year={2017}
+}
+@inproceedings{goyal2017ssv2,
+  title={The" something something" video database for learning and evaluating visual common sense},
+  author={Goyal, Raghav and Ebrahimi Kahou, Samira and Michalski, Vincent and Materzynska, Joanna and Westphal, Susanne and Kim, Heuna and Haenel, Valentin and Fruend, Ingo and Yianilos, Peter and Mueller-Freitag, Moritz and others},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  pages={5842--5850},
+  year={2017}
+}
+@inproceedings{deng2009imagenet,
+  title={Imagenet: A large-scale hierarchical image database},
+  author={Deng, Jia and Dong, Wei and Socher, Richard and Li, Li-Jia and Li, Kai and Fei-Fei, Li},
+  booktitle={2009 IEEE conference on computer vision and pattern recognition},
+  pages={248--255},
+  year={2009},
+  organization={Ieee}
+}
+@book{bochner2020harmonic,
+  title={Harmonic analysis and the theory of probability},
+  author={Bochner, Salomon},
+  year={2020},
+  publisher={University of California press}
+}
+@article{bahdanau2014neural,
+  title={Neural machine translation by jointly learning to align and translate},
+  author={Bahdanau, Dzmitry and Cho, Kyunghyun and Bengio, Yoshua},
+  journal={arXiv preprint arXiv:1409.0473},
+  year={2014}
+}
+@inproceedings{vaswani2017attention,
+  title={Attention is all you need},
+  author={Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N and Kaiser, {\L}ukasz and Polosukhin, Illia},
+  booktitle={Advances in neural information processing systems},
+  pages={5998--6008},
+  year={2017}
+}
+
+@ARTICLE{he2020realformer,
+       author = {{He}, Ruining and {Ravula}, Anirudh and {Kanagal}, Bhargav and {Ainslie}, Joshua},
+        title = "{RealFormer: Transformer Likes Residual Attention}",
+      journal = {arXiv e-prints},
+     keywords = {Computer Science - Machine Learning},
+         year = 2020,
+        month = dec,
+          eid = {arXiv:2012.11747},
+        pages = {arXiv:2012.11747},
+archivePrefix = {arXiv},
+       eprint = {2012.11747},
+ primaryClass = {cs.LG},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2020arXiv201211747H},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@article{dosovitskiy2020image,
+  title={An image is worth 16x16 words: Transformers for image recognition at scale},
+  author={Dosovitskiy, Alexey and Beyer, Lucas and Kolesnikov, Alexander and Weissenborn, Dirk and Zhai, Xiaohua and Unterthiner, Thomas and Dehghani, Mostafa and Minderer, Matthias and Heigold, Georg and Gelly, Sylvain and others},
+  journal={arXiv preprint arXiv:2010.11929},
+  year={2020}
+}
+
+ @article{vinyals2019grandmaster,
+  title={Grandmaster level in StarCraft II using multi-agent reinforcement learning},
+  author={Vinyals, Oriol and Babuschkin, Igor and Czarnecki, Wojciech M and Mathieu, Micha{\"e}l and Dudzik, Andrew and Chung, Junyoung and Choi, David H and Powell, Richard and Ewalds, Timo and Georgiev, Petko and others},
+  journal={Nature},
+  volume={575},
+  number={7782},
+  pages={350--354},
+  year={2019},
+  publisher={Nature Publishing Group}
+}
+
+@article{el2021xcit,
+  title={XCiT: Cross-Covariance Image Transformers},
+  author={El-Nouby, Alaaeldin and Touvron, Hugo and Caron, Mathilde and Bojanowski, Piotr and Douze, Matthijs and Joulin, Armand and Laptev, Ivan and Neverova, Natalia and Synnaeve, Gabriel and Verbeek, Jakob and others},
+  journal={arXiv preprint arXiv:2106.09681},
+  year={2021}
+}
+@inproceedings{repeat-augment,
+  title={Augment Your Batch: Improving Generalization Through Instance Repetition},
+  author={Hoffer, Elad and Ben-Nun, Tal and Hubara, Itay and Giladi, Niv and Hoefler, Torsten and Soudry, Daniel},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={8129--8138},
+  year={2020}
+}
+@inproceedings{cutmix,
+  title={Cutmix: Regularization strategy to train strong classifiers with localizable features},
+  author={Yun, Sangdoo and Han, Dongyoon and Oh, Seong Joon and Chun, Sanghyuk and Choe, Junsuk and Yoo, Youngjoon},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={6023--6032},
+  year={2019}
+}
+@inproceedings{adamw,
+  title={Decoupled Weight Decay Regularization},
+  author={Loshchilov, Ilya and Hutter, Frank},
+  booktitle={International Conference on Learning Representations},
+  year={2019}
+}
+@article{mixup,
+  title={mixup: Beyond empirical risk minimization},
+  author={Zhang, Hongyi and Cisse, Moustapha and Dauphin, Yann N and Lopez-Paz, David},
+  journal={arXiv preprint arXiv:1710.09412},
+  year={2017}
+}
+@inproceedings{stochastic-depth,
+  title={Deep networks with stochastic depth},
+  author={Huang, Gao and Sun, Yu and Liu, Zhuang and Sedra, Daniel and Weinberger, Kilian Q},
+  booktitle={European conference on computer vision},
+  pages={646--661},
+  year={2016},
+  organization={Springer}
+}
+@inproceedings{random-augment,
+  title={Randaugment: Practical automated data augmentation with a reduced search space},
+  author={Cubuk, Ekin D and Zoph, Barret and Shlens, Jonathon and Le, Quoc V},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops},
+  pages={702--703},
+  year={2020}
+}
+@inproceedings{random-erasing,
+  title={Random erasing data augmentation},
+  author={Zhong, Zhun and Zheng, Liang and Kang, Guoliang and Li, Shaozi and Yang, Yi},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={07},
+  pages={13001--13008},
+  year={2020}
+}
+@article{cos-lr,
+  title={Sgdr: Stochastic gradient descent with warm restarts},
+  author={Loshchilov, Ilya and Hutter, Frank},
+  journal={arXiv preprint arXiv:1608.03983},
+  year={2016}
+}
+@article{convit,
+  title={Convit: Improving vision transformers with soft convolutional inductive biases},
+  author={d'Ascoli, St{\'e}phane and Touvron, Hugo and Leavitt, Matthew and Morcos, Ari and Biroli, Giulio and Sagun, Levent},
+  journal={arXiv preprint arXiv:2103.10697},
+  year={2021}
+}
+@article{xiao2021early,
+  title={Early convolutions help transformers see better},
+  author={Xiao, Tete and Singh, Mannat and Mintun, Eric and Darrell, Trevor and Doll{\'a}r, Piotr and Girshick, Ross},
+  journal={arXiv preprint arXiv:2106.14881},
+  year={2021}
+}
+@article{berman2019multigrain,
+  title={Multigrain: a unified image embedding for classes and instances},
+  author={Berman, Maxim and J{\'e}gou, Herv{\'e} and Vedaldi, Andrea and Kokkinos, Iasonas and Douze, Matthijs},
+  journal={arXiv preprint arXiv:1902.05509},
+  year={2019}
+}
+@misc{timm,
+  author = {Ross Wightman},
+  title = {PyTorch Image Models},
+  year = {2019},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  doi = {10.5281/zenodo.4414861},
+  howpublished = {\url{https://github.com/rwightman/pytorch-image-models}}
+}
+@article{pytorch,
+  title={PyTorch: An Imperative Style, High-Performance Deep Learning Library},
+  author={Paszke, Adam and Gross, Sam and Massa, Francisco and Lerer, Adam and Bradbury, James and Chanan, Gregory and Killeen, Trevor and Lin, Zeming and Gimelshein, Natalia and Antiga, Luca and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={32},
+  pages={8026--8037},
+  year={2019}
+}
