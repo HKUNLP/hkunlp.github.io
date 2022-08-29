@@ -5,8 +5,20 @@
       <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
         <div class="container">
           {% if page.permalink != '/' -%}
-          <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl | prepend: site.url }}/">
-              {%- if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}  {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif -%}
+          <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+            {%- if site.title == "blank" -%}
+              {%- if site.first_name -%}
+                <span class="font-weight-bold">{{- site.first_name -}}&nbsp;</span>
+              {%- endif -%}
+              {%- if site.middle_name -%}
+                {{- site.middle_name -}}&nbsp;
+              {%- endif -%}
+              {%- if site.last_name -%}
+                {{- site.last_name -}}
+              {%- endif -%}
+            {%- else -%}
+              {{- site.title -}}
+            {%- endif -%}
           </a>
           {%- elsif site.enable_navbar_social -%}
           <!-- Social Icons -->
@@ -32,26 +44,17 @@
               {% endfor %}
 
               <!-- About -->
-              <!-- <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
+              <li class="nav-item {% if page.permalink == '/' %}active{% endif %}">
                 <a class="nav-link" href="{{ '/' | relative_url }}">{{ about_title }}
                   {%- if page.permalink == '/' -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
-              </li> -->
-              {% if site.blog_nav_title %}
-              <!-- Blog -->
-              <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
-                  {%- if page.url contains 'blog' -%}
-                  <span class="sr-only">(current)</span>
-                  {%- endif -%}
-                </a>
               </li>
-              {%- endif %}
+              {% if site.blog_nav_title %}
 
               <!-- Other pages -->
-              <!-- {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
+              {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
               {%- for p in sorted_pages -%}
               {%- if p.nav and p.autogen == nil -%}
               {%- if p.dropdown %}
@@ -81,9 +84,19 @@
               </li>
               {%- endif -%}
               {%- endif -%}
-              {% endfor -%} -->
-
+              {% endfor -%}
               {%- if site.enable_darkmode %}
+
+              <!-- Blog -->
+              <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/blog/' | relative_url }}">{{ site.blog_nav_title }}
+                  {%- if page.url contains 'blog' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              {%- endif %}
+
               <!-- Toogle theme mode -->
               <li class="toggle-container">
                 <button id="light-toggle" title="Change theme">

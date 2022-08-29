@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: NLP Research @ HKU
 
 profile:
   align: right
@@ -16,10 +16,9 @@ profile:
 
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 
-redirect_to: /blog/index.html # NOTE: redirect to the blog index page for now (will be removed later)
 ---
 
 
