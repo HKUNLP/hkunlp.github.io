@@ -2,8 +2,8 @@
 layout: page
 title: Lingpeng Kong
 description: Assistant Professor
-img: /assets/img/1.jpg
+img: /assets/img/lingpeng.jpeg
 importance: 1
-category: Current
+category: Faculty
 redirect: https://ikekonglp.github.io/
 ---

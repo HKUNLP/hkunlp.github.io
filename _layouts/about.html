@@ -5,9 +5,12 @@ layout: default
 <!-- about.html -->
       <div class="post">
         <header class="post-header">
-          <h1 class="post-title">
-           {% if site.title == "blank" -%}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{ site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
-          </h1>
+          
+          {%- assign logo_path = page.logo | prepend: 'assets/img/' -%}
+
+          {% include figure.html 
+            path=logo_path 
+            class="img-fluid rounded" -%}
           <p class="desc">{{ page.subtitle }}</p>
         </header>
 
@@ -16,6 +19,7 @@ layout: default
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if page.profile.image %}
               {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
+              {%- assign profile_image_caption = page.profile.image_caption -%}
 
               {% if page.profile.image_cicular %}
                 {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
@@ -26,6 +30,7 @@ layout: default
               {% include figure.html 
               path=profile_image_path 
               class=profile_image_class
+              caption = profile_image_caption
               alt=page.profile.image -%}
             {% endif -%}
             {%- if page.profile.address %}
@@ -38,6 +43,11 @@ layout: default
 
           <div class="clearfix">
             {{ content }}
+            {%- assign research_path = page.research | prepend: 'assets/img/' -%}
+
+            {% include figure.html 
+              path=research_path 
+              class="img-fluid rounded" -%}
           </div>
 
           {% if page.news -%}
