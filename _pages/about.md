@@ -8,9 +8,9 @@ research: wordcloud.png
 
 profile:
   align: left #right
-  image: group_photo.jpeg
+  image: group_photo_2022.jpeg
   image_cicular: false # crops the image to make it circular
-  image_caption: Group members in Hong Kong as of December 2, 2021 @ Victoria Peak
+  image_caption: Group members in Hong Kong as of September 12, 2022 @ Sai Kung
   
 
 
