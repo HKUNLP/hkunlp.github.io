@@ -10,7 +10,7 @@ profile:
   align: left #right
   image: group_photo_2022.jpeg
   image_cicular: false # crops the image to make it circular
-  image_caption: Group members in Hong Kong as of September 12, 2022 @ Sai Kung
+  image_caption: Group members in Hong Kong as of September 12, 2022 @ Tai Long Wan
   
 
 
