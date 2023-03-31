@@ -93,7 +93,7 @@
             {% endif %}
             {% assign more_authors_show = '' %}
             {%- for author in entry.author_array offset: author_array_limit -%}
-              {% assign more_authors_show = more_authors_show | append: author.last | append: ", " | append: author.first %}
+              {% assign more_authors_show = more_authors_show | append: author.first | append: " " | append: author.last %}
               {% unless forloop.last %}
                 {% assign more_authors_show = more_authors_show | append: ",&nbsp;" %}
               {% endunless %}
