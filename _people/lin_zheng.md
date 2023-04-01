@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zheng Lin
+title: Lin Zheng
 description: PhD Student
 img: /assets/img/linzheng.jpg
 importance: 0
