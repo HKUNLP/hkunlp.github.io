@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yazheng Yang
-description: Incoming PhD Student
+description: PhD Student
 img: /assets/img/yazhengyang.jpeg
 importance: 4
 category: Current Students

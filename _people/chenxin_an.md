@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chenxin An
-description: Incoming PhD Student
+description: PhD Student
 img: /assets/img/chenxin.jpeg
 importance: 7
 category: Current Students

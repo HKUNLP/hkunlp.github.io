@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shansan Gong
-description: Incoming PhD Student
+description: PhD Student
 img: /assets/img/sansa.jpg
 importance: 13
 category: Current Students
