@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zhihui Xie
-description: Incoming PhD Student
+description: PhD Student
 img: /assets/img/zhihui.jpg
 importance: 12
 category: Current Students

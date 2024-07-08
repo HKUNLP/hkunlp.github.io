@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Xijia Tao
-description: Incoming PhD Student
+description: PhD Student
 img: /assets/img/xijia.png
 importance: 13
 category: Current Students
