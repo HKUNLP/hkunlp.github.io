@@ -175,6 +175,7 @@ plugins:
   - jekyll-twitter-plugin
   - jekyll-redirect-from
   - jemoji
+  - jekyll-loading-lazy
 
 # Sitemap settings
 defaults:
