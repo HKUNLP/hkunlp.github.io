@@ -43,7 +43,7 @@ nav_order: 2
   <h2>Student Seminar</h2>
   <ul>
     <li>Friday 11am, May 9, 2025: <a href="https://siyan-zhao.github.io/">Siyan Zhao</a>, UCLA</li>
-    <li>Friday 11am, May 16, 2025: <a href="https://luccachiang.github.io/">Siyan Zhao</a>, UCSD, 👉 <a href="https://hku.zoom.us/j/97674910858?pwd=TSMPGnsoDpas59UuRj4A0yjewLpGhy.1">Zoom Link</a></li>
+    <li>Friday 11am, May 16, 2025: <a href="https://luccachiang.github.io/">Guangqi Jiang</a>, UCSD, 👉 <a href="https://hku.zoom.us/j/97674910858?pwd=TSMPGnsoDpas59UuRj4A0yjewLpGhy.1">Zoom Link</a></li>
   </ul>
 
   <h2>Distinguished Seminar</h2>
