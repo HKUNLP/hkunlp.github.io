@@ -45,6 +45,7 @@ nav_order: 2
     <li>Friday 11am, May 9, 2025: <a href="https://siyan-zhao.github.io/">Siyan Zhao</a>, UCLA</li>
     <li>Friday 11am, May 16, 2025: <a href="https://luccachiang.github.io/">Guangqi Jiang</a>, UCSD</li>
     <li>Wednesday 3pm, June 11th, 2025: <a href="https://rulegreen.github.io/">Hongru Wang</a>, CUHK</li>
+    <li>Friday 11am, July 25, 2025: <a href="https://xinyuyang.me/">Xinyu Yang</a>, CMU, recording will be available</li>
 
   </ul>
 
