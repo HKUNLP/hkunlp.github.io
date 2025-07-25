@@ -46,7 +46,7 @@ nav_order: 2
     <li>Friday 11am, May 16, 2025: <a href="https://luccachiang.github.io/">Guangqi Jiang</a>, UCSD</li>
     <li>Wednesday 3pm, June 11th, 2025: <a href="https://rulegreen.github.io/">Hongru Wang</a>, CUHK</li>
     
-    <li>Friday 11am, July 25, 2025: <a href="https://xinyuyang.me/">Xinyu Yang</a>, CMU, recording will be available</li>
+    <li>Friday 11am, July 25, 2025: <a href="https://xinyuyang.me/">Xinyu Yang</a>, CMU, <a href="https://hku.zoom.us/rec/share/TyPLYdwDpXuNsVX5UUEj80CbnvEBHKl-swledFFMv-vGCkWCNy0g71koHqLv3Xga.RuGWtF4GuO1VtiUA">recording link</a> (pwd: T4Y1Z.99)</li>
 
   </ul>
 
