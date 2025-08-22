@@ -107,7 +107,7 @@ These demos were collected using consistent sampling parameters: `temperature=0.
 
 One of the biggest challenges for diffusion LLMs is their lack of natural capability to generate variable-length sequences. This limitation is particularly problematic for infilling—generating code that seamlessly fits between existing snippets. We introduce an infilling variant, **DreamOn-7B** , that naturally adjusts the length of masked spans during generation by introducing two special tokens, `<|expand|>` and `<|delete|>`, which dynamically expand or contract the mask region to match the required infill length ([Figure 4](#figure4) and [Figure 5](#figure5)). This capability allows the model to handle variable-length code infilling tasks more effectively, without prior knowledge of the target sequence length.
 
-For more details, please refer to our accompanying blog post for our variable-length generation method [DreamOn](https://www.notion.so/228be544bdbb80cc991ef540e7805bd7?pvs=21).
+For more details, please refer to our accompanying blog post for our variable-length generation method [DreamOn](https://hkunlp.github.io/blog/2025/dreamon/).
 
 ## Adaptation
 
