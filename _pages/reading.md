@@ -48,6 +48,9 @@ nav_order: 2
     
     <li>Friday 11am, July 25, 2025: <a href="https://xinyuyang.me/">Xinyu Yang</a>, CMU, <a href="https://hku.zoom.us/rec/share/TyPLYdwDpXuNsVX5UUEj80CbnvEBHKl-swledFFMv-vGCkWCNy0g71koHqLv3Xga.RuGWtF4GuO1VtiUA">recording link</a> (pwd: T4Y1Z.99)</li>
 
+    <li>Friday 11am, Auguest 22th, 2025: <a href="https://jinjieni.github.io/">Jinjie Ni</a>, NUS</li>
+    <li>Tuesday 2pm, Auguest 26th, 2025: <a href="https://yifan-h.github.io/">Yifan Hou</a>, ETH</li>
+
   </ul>
 
   <h2>Distinguished Seminar</h2>
