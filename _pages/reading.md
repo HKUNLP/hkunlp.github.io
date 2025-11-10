@@ -51,6 +51,8 @@ nav_order: 2
     <li>Friday 11am, Auguest 22th, 2025: <a href="https://jinjieni.github.io/">Jinjie Ni</a>, NUS</li>
     <li>Tuesday 2pm, Auguest 26th, 2025: <a href="https://yifan-h.github.io/">Yifan Hou</a>, ETH</li>
 
+    <li>Friday 11am, Oct 31, 2025: <a href="https://homepage.zhouc.ai/">Cai Zhou</a>, MIT, <a href="https://hku.zoom.us/rec/share/f4t73XYiSbGTAR9Rs7eD72sE90X2JK2HQL63bn7Bxf3hNizGSoz2w_QsvL7wPiqj.SdN8RSM-TxsytTya ">recording link</a> (pwd: 1j&Gb@5h)</li>
+
   </ul>
 
   <h2>Distinguished Seminar</h2>
