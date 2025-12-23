@@ -1,7 +1,24 @@
+{%- assign ext = include.path | split: "." | last | downcase -%}
 {%- assign img_path = include.path | remove: ".jpg" | remove: ".jpeg" | remove: ".png" | remove: ".tiff" -%}
 
 <figure style="margin-top: 0em">
 
+  {% if ext == "mp4" %}
+  <video {% if include.class %}class="{{ include.class }}"{% endif %} {% if include.width %}width="{{ include.width }}"
+    {% else %}width="100%" {% endif %} {% if include.height %}height="{{ include.height }}"{% endif %}
+    {% if include.alt %}aria-label="{{ include.alt }}"{% endif %} {% if include.title %}title="{{ include.title }}"{% endif %}
+    playsinline autoplay muted loop controls>
+    <source src="{{ include.path | relative_url }}" type="video/mp4" />
+    Your browser does not support the video tag.
+  </video>
+  {% elsif ext == "pdf" %}
+  <embed src="{{ include.path | relative_url }}"
+    type="application/pdf"
+    {% if include.class %}class="{{ include.class }}"{% endif %}
+    {% if include.width %}width="{{ include.width }}"{% else %}width="100%"{% endif %}
+    height="{% if include.height %}{{ include.height }}{% else %}100vh{% endif %}"
+    {% if include.title %}title="{{ include.title }}"{% endif %} />
+  {% else %}
   <picture>
     {% if site.imagemagick.enabled %}
     {% for i in site.imagemagick.widths -%}
@@ -21,6 +38,7 @@
       loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
 
   </picture>
+  {% endif %}
   {%- if include.caption -%}<figcaption class="caption">{{ include.caption }}</figcaption>{%- endif %}
 
 </figure>
