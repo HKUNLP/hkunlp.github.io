@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yanzhe Zhang
-description: Incoming Assistant Professor
+description: Assistant Professor
 img: /assets/img/yanzhe.jpg
 importance: 4
 category: Faculty
