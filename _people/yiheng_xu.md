@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Yiheng Xu
-description: PhD Student
+description: PhD 2025
 img: /assets/img/yiheng.jpeg
 importance: 0
-category: Current Students
+category: Alumni
 redirect: https://yihengxu.com/
 ---

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Chang Ma
-description: PhD Student
+description: PhD 2025
 img: /assets/img/chang.jpeg
 importance: 4
-category: Current Students
+category: Alumni
 redirect: https://chang-github-00.github.io/-changma
 ---
